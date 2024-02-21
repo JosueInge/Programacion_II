@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Parcial_1</string>
+    <string-array name="spnArea">
+        <item>Dolar</item>
+        <item>Euro</item>
+        <item>Quetzales</item>
+        <item>Lempira</item>
+        <item>Peso Mexicano</item>
+        <item>Peso Argentino</item>
+        <item>Real Brasileño</item>
+        <item>Cordoba Nicaraguence</item>
+        <item>Dolar Canadiense</item>
+
+        <item></item>
+    </string-array>
+</resources>
